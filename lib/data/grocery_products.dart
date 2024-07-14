@@ -1,30 +1,30 @@
 class Grocery {
   static List<Map<String, dynamic>> groceryProducts = [
     {
-      'id': 1,
+      'id': '1',
       'name': 'Apple',
       'description': 'A juicy red apple.',
       'image': 'https://5.imimg.com/data5/AK/RA/MY-68428614/apple.jpg',
       'price': 1.5,
     },
     {
-      'id': 2,
+      'id': '2',
       'name': 'Milk',
       'description': 'A liter of fresh milk.',
       'image':
-          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTneo1ALfgw-ZGy_kai55QEUFnlO9htBfiDrg&s',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdBEwfN_UV7YsNfIzMdIc8YHejUk0n_FtnQ&s ',
       'price': 2.0,
     },
     {
-      'id': 3,
+      'id': '3',
       'name': 'Bread',
-      'description': 'A loaf of whole grain bread.',
+      'description': ' Brown Bread, Tasty.',
       'image':
-            'https://assets.bonappetit.com/photos/5c62e4a3e81bbf522a9579ce/16:9/w_4000,h_2250,c_limit/milk-bread.jpg',
+          'https://assets.bonappetit.com/photos/5c62e4a3e81bbf522a9579ce/16:9/w_4000,h_2250,c_limit/milk-bread.jpg',
       'price': 2.5,
     },
     {
-      'id': 4,
+      'id': '4',
       'name': 'Eggs',
       'description': 'A dozen organic eggs.',
       'image':
@@ -32,7 +32,7 @@ class Grocery {
       'price': 3.0,
     },
     {
-      'id': 5,
+      'id': '5',
       'name': 'Carrot',
       'description': 'Fresh organic carrots.',
       'image':
@@ -40,7 +40,7 @@ class Grocery {
       'price': 1.0,
     },
     {
-      'id': 6,
+      'id': '6',
       'name': 'Chicken Breast',
       'description': 'Boneless skinless chicken breast.',
       'image':
@@ -48,15 +48,15 @@ class Grocery {
       'price': 5.5,
     },
     {
-      'id': 7,
+      'id': '7',
       'name': 'Orange Juice',
       'description': 'A bottle of fresh orange juice.',
       'image':
-          'https://www.alphafoodie.com/wp-content/uploads/2020/11/Orange-Juice-1-of-1-500x500.jpeg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fakeq1lXYvjkOJL2l4qkIH4dQlk66EuSmQ&s',
       'price': 3.0,
     },
     {
-      'id': 8,
+      'id': '8',
       'name': 'Cheese',
       'description': 'A block of cheddar cheese.',
       'image':
@@ -64,7 +64,7 @@ class Grocery {
       'price': 4.0,
     },
     {
-      'id': 9,
+      'id': '9',
       'name': 'Tomato',
       'description': 'Ripe red tomatoes.',
       'image':
@@ -72,11 +72,11 @@ class Grocery {
       'price': 2.0,
     },
     {
-      'id': 10,
+      'id': '10',
       'name': 'Pasta',
       'description': 'A pack of whole wheat pasta.',
       'image':
-          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4MV3Mc9zbB40-mkHljlDq72CAZ68iWKuGw&s',
+          'https://rukminim2.flixcart.com/image/850/1000/xif0q/pasta/b/y/n/64-pazzta-macaroni-instant-8-nestle-original-imagzvgwdqghygwu.jpeg?q=90&crop=false',
       'price': 2.5,
     },
   ];
